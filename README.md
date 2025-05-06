@@ -52,7 +52,7 @@ Fernet encryption is a strong and modern symmetric encryption standard, but this
 ## 🧑‍💻 Author
 
 **Kabiru Kolawole**  
-[GitHub](https://github.com/Cozy1712) • [LinkedIn](https://linkedin.com/in/yourprofile)
+[GitHub](https://github.com/Cozy1712) • [LinkedIn](https://linkedin.com/in/kabiru-kolawole)
 
 ## 📝 License
 
